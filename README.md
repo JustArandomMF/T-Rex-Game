@@ -1,2 +1,1 @@
-# T-Rex-Game
-Juego en blanco y negro
+# C18_LP_AA1
